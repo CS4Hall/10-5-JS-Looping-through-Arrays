@@ -1,4 +1,4 @@
-# 11-2-JS-Looping-through-Arrays
+# 10-4-JS-Looping-through-Arrays
 
 ## Video
 
